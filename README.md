@@ -19,3 +19,7 @@ The dataset was sourced from [Twitter](#). It contains labeled tweets indicating
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/disaster-detection-tweets.git
+
+## Results
+![image](https://github.com/user-attachments/assets/d9b1756c-b2c8-4ff4-9ac8-375075bdb2c2)
+
