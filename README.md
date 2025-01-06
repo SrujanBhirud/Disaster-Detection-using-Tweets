@@ -3,6 +3,8 @@
 ## Overview
 This project leverages Machine Learning and Natural Language Processing (NLP) to detect disasters based on tweets. The aim is to provide a tool to analyze real-time data from Twitter and identify if a tweet indicates a disaster.
 
+The vectorizer and model are stored in pkl files.
+
 ## Features
 - Data Cleaning and Preprocessing
 - Feature Extraction using NLP techniques
